@@ -1,31 +1,31 @@
 def datacol_theme():
     markColor = "#1696d2"
-    axisColor = "#000000"
+    axisColor = "#00000"
     backgroundColor = "#FFFFFF"
     font = "Lato"
     labelFont = "Lato"
     sourceFont = "Lato"
     gridColor = "#DEDDDD"
-    main_palette = ["#1696d2",
+    main_palette = ["#1696d2", 
                     "#d2d2d2",
-                    "#000000",
-                    "#fdbf11",
-                    "#ec008b",
-                    "#55b748",
-                    "#5c5859",
-                    "#db2b27",
+                    "#000000", 
+                    "#fdbf11", 
+                    "#ec008b", 
+                    "#55b748", 
+                    "#5c5859", 
+                    "#db2b27", 
                    ]
-    sequential_palette = ["#cfe8f3",
-                          "#a2d4ec",
-                          "#73bfe2",
-                          "#46abdb",
-                          "#1696d2",
-                          "#12719e",
+    sequential_palette = ["#cfe8f3", 
+                          "#a2d4ec", 
+                          "#73bfe2", 
+                          "#46abdb", 
+                          "#1696d2", 
+                          "#12719e", 
                          ]
     return {
         "width": 685,
-        "height": 380,
-        "autosize": "fit",
+        "height": 380,   
+#        "autosize": "fit",
         "config": {
             "title": {
                 "anchor": "start",
@@ -112,7 +112,7 @@ def datacol_theme():
                "align": "right",
                "fontWeight": 400,
                "size": 11,
-           },
+           }, 
            "bar": {
                 "size": 40,
                 "binSpacing": 1,
@@ -120,11 +120,11 @@ def datacol_theme():
                 "discreteBandSize": 30,
                 "fill": markColor,
                 "stroke": False,
-            },
+            }, 
        },
     }
-
+    
+    
 import altair as alt
-
-alt.themes.register("my_custom_theme", datacol_theme)
-alt.themes.enable("my_custom_theme")
+alt.themes.register('datacol_theme', datacol_theme)
+alt.themes.enable('datacol_theme')
