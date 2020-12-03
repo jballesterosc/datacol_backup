@@ -5,7 +5,7 @@ def datacol_theme():
     font = "Lato"
     labelFont = "Lato"
     sourceFont = "Lato"
-    gridColor = "#76c2af"
+    gridColor = "#DEDDDD"
     main_palette = ["#1696d2", 
                     "#d2d2d2",
                     "#000000", 
