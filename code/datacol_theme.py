@@ -1,11 +1,11 @@
 def datacol_theme():
     markColor = "#1696d2"
-    axisColor = "#00000"
+    axisColor = "#000000"
     backgroundColor = "#FFFFFF"
     font = "Lato"
     labelFont = "Lato"
     sourceFont = "Lato"
-    gridColor = "#DEDDDD"
+    gridColor = "#76c2af"
     main_palette = ["#1696d2", 
                     "#d2d2d2",
                     "#000000", 
