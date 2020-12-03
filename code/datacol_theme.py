@@ -124,7 +124,7 @@ def datacol_theme():
        },
     }
     
-    
+#DataCol color: ¢76c2af    
 import altair as alt
 alt.themes.register('datacol_theme', datacol_theme)
 alt.themes.enable('datacol_theme')
