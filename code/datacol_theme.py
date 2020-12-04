@@ -29,9 +29,9 @@ def datacol_theme():
         "config": {
             "title": {
                 "anchor": "start",
-                "fontSize": 18,
+                "fontSize": 25,
                 "font": font,
-                "fontColor": "#000000"
+                "fontColor": "#76c2af"
             },
             "axisX": {
                "domain": True,
