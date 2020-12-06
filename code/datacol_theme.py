@@ -1,5 +1,5 @@
 def datacol_theme():
-    markColor = "#1696d2"
+    markColor = "#12719e"
     axisColor = "#000000"
     backgroundColor = "#FFFFFF"
     font = "Lato"
