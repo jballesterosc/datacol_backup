@@ -1,19 +1,19 @@
 def datacol_theme():
-    markColor = "#12719e"
+    markColor = "#22D3F2"
     axisColor = "#000000"
     backgroundColor = "#FFFFFF"
     font = "Lato"
     labelFont = "Lato"
     sourceFont = "Lato"
     gridColor = "#DEDDDD"
-    main_palette = ["#1696d2", 
-                    "#d2d2d2",
-                    "#000000", 
-                    "#fdbf11", 
-                    "#ec008b", 
-                    "#55b748", 
-                    "#5c5859", 
-                    "#db2b27", 
+    main_palette = ["#22d3f2", 
+                    "#63283c",
+                    "#45a887", 
+                    "#d42b0d", 
+                    "#70faca", 
+                    "#26181d", 
+                    "#5d8c7c", 
+                    "#fa6950", 
                    ]
     sequential_palette = ["#cfe8f3", 
                           "#a2d4ec", 
@@ -21,6 +21,8 @@ def datacol_theme():
                           "#46abdb", 
                           "#1696d2", 
                           "#12719e", 
+                          "#0a4c6a",
+                          "#062635",
                          ]
     return {
         "width": 685,
@@ -31,7 +33,7 @@ def datacol_theme():
                 "anchor": "start",
                 "fontSize": 25,
                 "font": font,
-                "fontColor": "#76c2af"
+                "fontColor": "#000000"
             },
             "axisX": {
                "domain": True,
