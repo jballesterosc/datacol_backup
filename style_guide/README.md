@@ -16,12 +16,12 @@ Randomly generated through [coolors.co](https://coolors.co/).
 `var colors=["#22d3f2","#63283c","#45a887","#d42b0d","#70faca","#26181d","#5d8c7c","#fa6950"]`
 ### Sequential
 Retrieved from the [Urban Institute](https://www.urban.org) style guide:
-![imgur coolors2](https://i.imgur.com/vZvjASJ.png)
+![imgur coolors2](https://i.imgur.com/vZvjASJ.png) 
 `var colors=["#CFE8F3","#A2D4EC","#73BFE2","#46ABDB","#1696D2","#12719E","#0A4C6A","#062635"]`
 
 
 ## Logo
-- Free (non-copyrighted icon) from [iconfinder](https://www.iconfinder.com/editor/?id=1054952&hash=e05e05582fb62a1401de526b23db28588b911444fb3ed865f9210970)
+- Free (non-copyrighted icon) from [iconfinder.](https://www.iconfinder.com/editor/?id=1054952&hash=e05e05582fb62a1401de526b23db28588b911444fb3ed865f9210970)
 ## Header
 - Trough FIGMA
 
