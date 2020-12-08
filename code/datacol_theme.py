@@ -31,7 +31,7 @@ def datacol_theme():
         "config": {
             "title": {
                 "anchor": "start",
-                "fontSize": 25,
+                "fontSize": 13,
                 "font": font,
                 "fontColor": "#000000"
             },
@@ -46,7 +46,7 @@ def datacol_theme():
                "tickColor": axisColor,
                "tickSize": 5,
                "titleFontSize": 12,
-               "titlePadding": 10,
+               "titlePadding": 12,
                "titleFont": font,
                "title": "",
            },
@@ -57,10 +57,10 @@ def datacol_theme():
                "gridWidth": 1,
                "labelFontSize": 12,
                "labelFont": labelFont,
-               "labelPadding": 8,
+               "labelPadding": 12,
                "ticks": False,
                "titleFontSize": 12,
-               "titlePadding": 10,
+               "titlePadding": 12,
                "titleFont": font,
                "titleAngle": 0,
                "titleY": -10,
@@ -73,7 +73,7 @@ def datacol_theme():
                "symbolSize": 100,
                "symbolType": "square",
                "titleFontSize": 12,
-               "titlePadding": 10,
+               "titlePadding": 12,
                "titleFont": font,
                "title": "",
                "orient": "top-left",
@@ -110,7 +110,7 @@ def datacol_theme():
            "text": {
                "font": sourceFont,
                "color": markColor,
-               "fontSize": 11,
+               "fontSize": 9,
                "align": "right",
                "fontWeight": 400,
                "size": 11,
