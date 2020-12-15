@@ -6,16 +6,16 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: COVID-19 Dashboards
+title: DataCol
 tagline: A site that displays up to date COVID-19 stats, powered by fastpages.
 description: A site that displays up to date COVID-19 stats, powered by fastpages.
-github_username: github
+github_username: jballesterosc_
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "covid19-dashboard"
+github_repo: "datacol"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://covid19dashboards.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://datacol.com.mx" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
